@@ -9,4 +9,5 @@
 
    ### Dashboard Preview
    
-![Screenshot 2024-09-20 150925](https://github.com/user-attachments/assets/f514371b-618b-4122-8d63-5bf97f58ccf4)
+
+![Screenshot 2024-09-20 150925](https://github.com/user-attachments/assets/25d7e1cf-7785-4089-ad00-1fca651a7913)
